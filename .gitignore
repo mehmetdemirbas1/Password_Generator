@@ -1,0 +1,36 @@
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build klasörleri
+Debug/
+Release/
+x64/
+x86/
+
+# ===== Visual C++ =====
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.bak
+*.vcxproj.tmp
+
+# ===== Object & Binary Files =====
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# ===== Logs & Temp =====
+*.log
+*.tlog
+*.tmp
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
